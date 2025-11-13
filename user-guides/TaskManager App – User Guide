@@ -1,0 +1,88 @@
+# TaskManager App – User Guide
+
+## Table of Contents
+1. [Introduction](#introduction)  
+2. [Installation](#installation)  
+3. [Getting Started](#getting-started)  
+4. [Features](#features)  
+5. [Managing Tasks](#managing-tasks)  
+6. [Settings](#settings)  
+7. [FAQ](#faq)  
+8. [Support](#support)  
+
+---
+
+## Introduction
+**TaskManager** is a productivity application designed to help users efficiently manage their daily tasks and projects. With a simple and intuitive interface, users can create, edit, and track tasks, set reminders, and organize tasks into projects for better workflow management.
+
+---
+
+## Installation
+
+### System Requirements
+- OS: Windows 10+, macOS 10.15+, Linux Ubuntu 20.04+  
+- RAM: Minimum 4GB  
+- Storage: Minimum 100MB free space  
+
+### Steps
+1. Download the installer from the official [TaskManager website](#).  
+2. Run the installer and follow the on-screen instructions.  
+3. Launch the TaskManager app after installation.  
+
+---
+
+## Getting Started
+1. Open the TaskManager app.  
+2. Sign up using your email address or log in if you already have an account.  
+3. Once logged in, you will see the **Dashboard**, which shows all your active tasks and projects.  
+
+---
+
+## Features
+- **Task Creation** – Add tasks with title, description, due date, priority, and tags.  
+- **Project Management** – Group tasks under projects for better organization.  
+- **Reminders & Notifications** – Get timely alerts for upcoming deadlines.  
+- **Search & Filter** – Easily locate tasks using search and filter options.  
+- **Task History** – Track completed tasks and view past activity.  
+
+---
+
+## Managing Tasks
+
+### Creating a Task
+1. Click the **“Add Task”** button on the Dashboard.  
+2. Enter task details: title, description, due date, priority, and tags.  
+3. Click **Save** to add the task to your project.  
+
+### Editing a Task
+1. Click on the task you want to edit.  
+2. Modify the task details as required.  
+3. Click **Update** to save changes.  
+
+### Deleting a Task
+1. Click on the task.  
+2. Select **Delete Task**.  
+3. Confirm deletion in the pop-up dialog.  
+
+---
+
+## Settings
+- **Profile Settings** – Update your profile information and password.  
+- **Notification Settings** – Enable/disable email or push notifications.  
+- **Theme** – Switch between Light and Dark mode for the app interface.  
+
+---
+
+## FAQ
+**Q: Can I sync TaskManager across devices?**  
+A: Yes, TaskManager supports cloud sync. Log in with the same account on multiple devices.  
+
+**Q: Is TaskManager free?**  
+A: TaskManager offers a free version with basic features. Premium plans unlock advanced features.  
+
+---
+
+## Support
+For assistance, contact our support team:  
+- Email: support@taskmanager.com  
+- Phone: +91-123-456-7890  

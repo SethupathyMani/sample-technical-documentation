@@ -3,9 +3,7 @@
 
 #User Guide Sample
 
-📄 `02_User_Guide/SaaS-Application-User-Guide.md`
 
-```markdown
 # SaaS Application – User Guide
 
 ## Introduction

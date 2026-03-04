@@ -1,7 +1,7 @@
 
 ---
 
-# 3️⃣ User Guide Sample
+#User Guide Sample
 
 📄 `02_User_Guide/SaaS-Application-User-Guide.md`
 
